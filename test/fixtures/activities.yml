@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  lead: one
+  activity_type: 1
+  description: MyText
+  performed_by: MyString
+  previous_value: MyString
+  new_value: MyString
+  metadata: 
+
+two:
+  lead: two
+  activity_type: 1
+  description: MyText
+  performed_by: MyString
+  previous_value: MyString
+  new_value: MyString
+  metadata: 
