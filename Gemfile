@@ -51,7 +51,7 @@ gem "factory_bot_rails", "~> 6.0", group: [ :development, :test ]
 gem "faker", "~> 3.0", group: [ :development, :test ]
 gem "shoulda-matchers", "~> 5.1", group: [ :development, :test ]
 gem "kaminari"
-gem "dotenv-rails", "~> 2.0"
+gem "dotenv-rails", "~> 3.2"
 gem "rubocop", "~> 1.0", require: false
 gem "rubocop-rails", "~> 2.0", require: false
 gem "rubocop-rspec", "~> 2.0", require: false
