@@ -48,7 +48,7 @@ end
 
 gem "rspec-rails", group: [ :development, :test ]
 gem "factory_bot_rails", "~> 6.0", group: [ :development, :test ]
-gem "faker", "~> 3.0", group: [ :development, :test ]
+gem "faker", "~> 3.6", group: [ :development, :test ]
 gem "shoulda-matchers", "~> 5.1", group: [ :development, :test ]
 gem "kaminari"
 gem "dotenv-rails", "~> 2.0"
