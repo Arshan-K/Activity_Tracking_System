@@ -52,7 +52,7 @@ gem "faker", "~> 3.0", group: [ :development, :test ]
 gem "shoulda-matchers", "~> 5.1", group: [ :development, :test ]
 gem "kaminari"
 gem "dotenv-rails", "~> 2.0"
-gem "rubocop", "~> 1.0", require: false
+gem "rubocop", "~> 1.85", require: false
 gem "rubocop-rails", "~> 2.0", require: false
 gem "rubocop-rspec", "~> 2.0", require: false
 gem "db-details", "~> 0.1.0"
